@@ -22,6 +22,11 @@ For installing and using this colection in Icestudio follow these steps:
 * Select the collection: *Select > Collection*
 
 
+## Blocks
+* **SPI**
+  * Join-spi-bus
+  * Split-spi-bus
+  * Sys-spi-tx
 
 
 ## Authors
