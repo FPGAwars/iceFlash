@@ -429,7 +429,7 @@
           "id": "f4d067dc-61ab-4aaf-a5eb-6c8e9ccd0362",
           "type": "basic.output",
           "data": {
-            "name": "",
+            "name": "bus",
             "virtual": true,
             "range": "[10:0]",
             "pins": [
@@ -570,7 +570,7 @@
           "id": "c552e4a9-5a18-4fd8-83b0-d7605197229b",
           "type": "basic.input",
           "data": {
-            "name": "bus_i",
+            "name": "bus",
             "virtual": true,
             "range": "[10:0]",
             "pins": [
