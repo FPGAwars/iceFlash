@@ -23,11 +23,27 @@ For installing and using this colection in Icestudio follow these steps:
 
 
 ## Blocks
+* **Flash**
+  * flash-read-16-sys-zero
+  * flash-read-32-sys-zero
+  * flash-read-8-sys-zero
+  * flash-read-id-sys-zero
+* **Flash-bus**
+  * flash-controller0
+  * flash-read16-bus
+  * flash-read32-bus
+  * flash-read8-bus
+  * flash-readid-bus
 * **SPI**
   * Join-spi-bus
+  * SPI-write-byte
+  * SPI-write-k-byte
   * Split-spi-bus
+  * Sys-spi-tx-bus
   * Sys-spi-tx
 
+## Examples
+* 00-index
 
 ## Authors
 * [Juan Gonzalez-Gomez (Obijuan)](https://github.com/Obijuan)
